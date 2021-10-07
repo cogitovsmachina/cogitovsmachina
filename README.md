@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there fellow hacker! 👋👋
 
 <!--
 **cogitovsmachina/cogitovsmachina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
 
 <div >
-  <!-- <img src="https://github.com/juanpflores/juanpflores/blob/main/assets/happy-juanpa.gif" align="right" width="300">-->
+  <!-- <img src="" align="right" width="300">-->
 
 <ul>
   <li><b>👤 Name: </b> Enrique Diaz</li>
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
   <li><b>📍 Location:</b> Mexico City 🇲🇽</li>
   <li><b>💼 Job: </b>Co-founder & Machine Learning Engineer @ <a href="devf.la">DEVF</a></li>
   <li><b>📣 Languages:</b> English & Spanish</li>
+  <li><b>📫 Contact: k@devf.mx</li>
+  
 </ul>
 
 <p>I'm Enrique (<i>aka Kike</i>) a self-taught computer science enthusiast with experience in learning communities. I'm a Co-founder and Machine Learning Engineer at the DEVF, 
