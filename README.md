@@ -1,4 +1,7 @@
 ### Hi there fellow hacker! 👋👋
+## Hi there fellow hacker! 👋👋
+# Hi there fellow hacker! 👋👋
+
 
 <!--
 **cogitovsmachina/cogitovsmachina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
