@@ -1,6 +1,4 @@
 ### Hi there fellow hacker! 👋👋
-## Hi there fellow hacker! 👋👋
-# Hi there fellow hacker! 👋👋
 
 
 <!--
